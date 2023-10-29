@@ -64,7 +64,7 @@ public class Number_guessing_game {
             String user = sc.next();
 
             System.out.println(user + " Your Turn Enter the Guess no ");
-            int Player = guessing_game();
+            guessing_game();
 
         }
     }
